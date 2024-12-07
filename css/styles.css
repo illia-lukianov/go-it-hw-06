@@ -31,12 +31,6 @@ img {
 }
 
 /* #endregion */
-.none {
-        display: none;
-}
-
-.done {}
-
 .body.body {
         color: #434455;
         background-color: #ffffff;
@@ -150,8 +144,6 @@ img {
                 display: none;
         }
 }
-
-.icon-header-menu {}
 
 .full-header-logo {
         display: flex;
@@ -302,8 +294,6 @@ img {
 
 /* #endregion */
 /* #region Hero */
-.hero-section {}
-
 .hero-container {
         padding: 72px 0;
         background-color: rgb(46, 47, 66);
@@ -1119,8 +1109,6 @@ img {
         text-align: center;
         margin-bottom: 16px;
 }
-
-.form {}
 
 .form-wrap-content {
         position: relative;
