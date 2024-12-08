@@ -1,4 +1,4 @@
-# go-it-hw-markup-05
+# go-it-hw-markup-06
 
-HTML+CSS homework 3 Live page link:
-https://github.com/illia-lukianov/go-it-hw-markup-05.git
+HTML+CSS homework 6 Live page link:
+https://illia-lukianov.github.io/go-it-hw-markup-06/
